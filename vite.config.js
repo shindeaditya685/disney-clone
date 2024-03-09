@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/31-disney-clone/",
+  base: "/disney-clone/",
   plugins: [react()],
 });
